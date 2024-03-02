@@ -1,0 +1,38 @@
+h1.zagaw  {
+    color: blue;
+    display: block;
+   /* margin-left: 50%;*/
+}
+
+.main{
+    margin-left:40%;
+}
+
+.zag2 {
+    margin-left: 45%;
+}
+
+.line {
+    display:inline-block;
+    flex: 3;
+}
+
+.testV {
+    color:blue;
+}
+
+.dateFirstPage {
+    margin-left: 10%;
+}
+
+.down {
+    position: fixed;
+    bottom: 10px;
+    left: 50%;
+    margin-left: -104.5px;
+}
+
+.qustionsInTest {
+    font-size: 1.5em;
+}
+

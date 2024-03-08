@@ -1,3 +1,3 @@
 //alert("Hello World!");
-var textString = "Hello world!";
-console.log(textString.length);
+var textString = new String("Hello world!");
+console.log(textString.valueOf());
